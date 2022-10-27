@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&family=Lora:ital@1&family=Roboto:wght@100&display=swap');
+@import url("composants/container.css");
+@import url("composants/banner.css");
+@import url("composants/btn-blue.css");
+@import url("composants/btn-yellow.css");
+@import url("composants/card-grid2.css");
+@import url("composants/card-menu2.css");
+@import url("composants/background.css");
+
+a :hover {
+	color: lightgrey;
+}
+
+body {
+	background-color:#F8C4B4;
+	margin: 0px;
+}
+

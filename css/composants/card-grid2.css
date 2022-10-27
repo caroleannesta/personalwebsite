@@ -1,0 +1,4 @@
+.card-grid2 {
+	display: flex;
+	flex-wrap: wrap;
+}
